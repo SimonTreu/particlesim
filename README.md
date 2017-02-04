@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/simontreu/particlesim/tree/master.svg?style=svg)](https://circleci.com/gh/SimonTreu/particlesim/tree/master)
+[![CircleCI](https://circleci.com/gh/SimonTreu/particlesim/tree/master.svg?style=svg)](https://circleci.com/gh/SimonTreu/particlesim/tree/master)
 [![codecov](https://codecov.io/gh/simontreu/particlesim/branch/master/graph/badge.svg)](https://codecov.io/gh/SimonTreu/particlesim/)
 
 

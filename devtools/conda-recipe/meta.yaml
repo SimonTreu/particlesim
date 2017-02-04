@@ -12,11 +12,13 @@ requirements:
     - python
     - setuptools
     - cython >=0.22
+    - scipy
     - numpy x.x
 
   run:
     - python
     - numpy x.x
+    - scipy
 
 test:
   requires:
